@@ -1,0 +1,10 @@
+---
+layout: methods
+title: Gingerbread
+recipe-attribution: HungryJenny
+methods-attribution-link: http://ghostblog-arin.rhcloud.com
+---
+
+# Introduction to Meta Analysis
+
+Meta analysis is a technique of pooling together results from diverse studies.
